@@ -1,5 +1,5 @@
 .bg-color{
-    background-color:#FAFF09;
+    background-color:#fcffa8;
 }
 .eclipse{
     border-radius: 56%;
@@ -16,6 +16,7 @@
     margin-top: 80px;
     text-transform: uppercase;
     font-weight: 900;
+    
 }
 .content-padding{
     padding: 35px;
@@ -30,4 +31,110 @@
 }
 .title{
     color: #152DFF;
+}
+.thumb{
+    width: 260px;
+    height: 480px;
+    border: 1px solid black;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+.image{
+    height: 480px;
+    width: 260px;
+}
+
+.bg-col1{
+    background-color: #fcffa8;
+    height: 70px;
+    width: auto;
+}
+.bg-col2{
+    background-color: #ffc476;
+    height: 70px;
+    width: auto;
+}
+.bg-col3{
+    background-color: #ffbe67;
+    height: 70px;
+    width: auto;
+}
+.bg-col4{
+    background-color: #ffb34d;
+    height: 70px;
+    width: auto;
+}
+.bg-col5{
+    background-color: #ffa834;
+    height: 70px;
+    width: auto;
+}
+.bg-col6{
+    background-color: #ff9d1a;
+    height: 70px;
+    width: auto;
+}
+.text{
+    text-transform: uppercase;
+    position: absolute;
+    left: 55px;
+    top: 455px;
+    color: white;
+    font-style: italic;
+}
+.text2{
+    text-transform: uppercase;
+    position: absolute;
+    left: 196px;
+    top: 525px;
+    color: white;
+    background-color: #ffa834;
+    font-style: italic;
+}
+.form{
+    height: 50px;
+    display: inline-block;
+    width: 250px;
+
+}
+.form-in{
+    position: absolute;
+    left: 90px;
+}
+.button-in{
+    position: absolute;
+    left: 340px;
+    top: 596px;
+    
+    
+}
+.button{
+    background-color: #faff0d;
+    height: 48px;
+    
+    width: 80px;
+    
+}
+.or{
+    position: absolute;
+    left: 625px;
+    top: 596px;
+}
+.findTutor{
+    position: absolute;
+    left: 890px;
+    top: 596px;
+    background-color: #faff0d;
+    height: 50px;
+    text-align: center;
+    width: 220px;
+}
+.txt{
+    font-weight: bold;
+    margin-top: 5px;
+}
+.txt2{
+    font-weight: bold;
+    padding-top: 10px;
 }
