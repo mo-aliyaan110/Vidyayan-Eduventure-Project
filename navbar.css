@@ -1,0 +1,28 @@
+.inline{
+    display: inline;
+}
+.bg-color{
+    background-color:#FF6109;
+}
+.bg-color-navbar{
+    background-color: #F8FD04;
+}
+.hidden{
+    display: none;
+}
+.float-right{
+    float: right;
+}
+.block{
+    display: block;
+}
+.bor{
+    border: 1px solid black;
+}
+.lin{
+    border-bottom: 3px solid #FF6109;
+    
+}
+.nav-padding{
+    padding-bottom: 35px;
+}
