@@ -138,3 +138,177 @@
     font-weight: bold;
     padding-top: 10px;
 }
+.findTutortext{
+    position: absolute;
+    left: 90px;
+    top: 700px;
+    
+
+}
+.maintutorText{
+    text-transform: capitalize;
+    font-size: 36px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+}
+.bg-col7{
+    background-color: #ff9d1a;
+    height: 550px;
+    width: auto;
+}
+.gplay{
+    position: relative;
+    left: 100px;
+    top: 129px;
+
+}
+.appstore{
+    position: relative;
+    left: 435px;
+    top: 26px;
+
+}
+.getLink{
+    position: absolute;
+    right: 20px;
+    top: 800px;
+}
+.getLinkTxt{
+    text-transform: capitalize;
+    font-size: 22px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.form91{
+    position: absolute;
+    right: 280px;
+    top: 850px;
+    
+    
+}
+.forminline{
+    width: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+.formNumber{
+    position: absolute;
+    right: 100px;
+    top: 849.5px
+}
+.getLinkbtn{
+    position: absolute;
+    right:11px;
+    top: 850px;
+}
+.txtLink{
+    font-weight: bold;
+    color: black;
+    background-color: #faff0d ;
+    height: 30px;
+    
+}
+.freecoding{
+    position:absolute;
+    top: 1050px;
+    left: 300px;
+    
+
+}
+.freecodetext{
+    font-size: 36px;
+    text-align: center;
+    color: black;
+    font-style: normal;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 60px;
+}
+.learnCode{
+    position: absolute;
+    top: 920px;
+    right: 90px;
+    
+}
+.codeContent{
+    border-right:1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    width: 270px;
+    height: 295px;
+    border-radius: 15px;
+    background-color:#FAFF0D;
+    
+}
+.codeTitle{
+    text-transform: capitalize;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+}
+.imageOne{
+    width: 190px;
+    height: 120px;
+    position: absolute;
+    bottom: -3px;
+    right: 35px;
+}
+.startlearning{
+    background-color: white;
+    width: auto;
+    height: 260px;
+    position: absolute;
+    top: 1320px;
+    left: 280px;
+}
+.learntxt{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+}
+.buttonlive{
+    position: absolute;
+    top: 1450;
+    left: 280px;
+    background-color: #F19D26;
+    width: 170px;
+    padding: 8px;
+}
+.buttonlivetxt{
+    text-align: center;
+    padding-top: 05px;
+    color: white;
+    font-size: 17.5px;
+    text-transform: uppercase;
+}
+.buttondemo{
+    position: absolute;
+    top: 1450;
+    left: 600px;
+    background-color: #F19D26;
+    width: 170px;
+    padding: 8px;
+}
+.buttondemotxt{
+    text-align: center;
+    padding-top: 05px;
+    color: white;
+    font-size: 17.5px;
+    text-transform: uppercase;
+}
+.buttonjoin{
+    position: absolute;
+    top: 1450;
+    right: 370px;
+    background-color: #F19D26;
+    width: 170px;
+    padding: 8px;
+}
+.buttonjointxt{
+    
+    padding-top: 05px;
+    color: white;
+    font-size: 17.5px;
+    text-transform: uppercase;
+}
