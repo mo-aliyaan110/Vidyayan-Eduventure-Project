@@ -28,11 +28,13 @@ body{
     border-bottom: 2px solid black;
 }
 .sendReq{
-    border: 1px solid black;
+    
     width: 350px;
     height: 490px;
     margin: 40px;
     background-color: #C4C4C4;
+    display: inline-block;
+   
 }
 .image{
     border: 1px solid black;
@@ -66,12 +68,12 @@ body{
     left: 75px;
 }
 .botButton{
-    border: 1px solid black;
+    
     width: 348px;
     height: 100px;
     background-color: #FFD80B;
     position: relative;
-    top: 50px;
+    top: 67px;
 }
 .sendbtn{
     position: relative;
@@ -82,8 +84,8 @@ body{
 }
 .demobtn{
     position: relative;
-    top: 10px;
-    left: 30px;
+    top: -8px;
+    left: 190px;
     font-weight: bold;
     background-color: #FFE711;
 }
@@ -98,4 +100,184 @@ body{
     position: relative;
     top: -4px;
     left: 50px;
+}
+.textofbtn3{
+    position: absolute;
+    top: 8px;
+    font-size: 10px;
+    left: 210px;
+}
+.textofimg{
+    position: relative;
+    top: 80px;
+    text-transform: uppercase;
+}
+.demvideoCon{
+    
+    width: 350px;
+    height: 490px;
+    
+    margin: 40px;
+    background-color: white;
+    
+    float: right;
+    
+    
+    
+
+}
+.midtext{
+    position: absolute;
+    top: 360px;
+    left: 700px;
+    line-height: 13px;
+    border-bottom: 2px solid black;
+}
+.arrow2{
+    position: absolute;
+    top: 456px;
+    left: 590px;
+}
+.demovideo{
+    width: 347px;
+    height: 80px;
+    background-color: #FFE711;
+    
+}
+
+.Demotxt32{
+    position: absolute;
+    top: 238px;
+    right: 140px;
+}
+.spanText{
+    font-size: 13px;
+    position: absolute;
+    top: 275px;
+
+}
+.bottom{
+    border-bottom: 2px solid black;
+}
+.rightt{
+    position: absolute;
+    float: right;
+    right: 20px;
+    color: #FF6109;
+    margin-right: 10px;
+    padding-right: 30px;
+}
+.logincont{
+    width: 350px;
+    height: 400px;
+    
+    margin: 40px;
+    background-color: white;
+    display: inline-block;
+}
+.textLogin{
+    padding: 20px;
+    color: black;
+    font-size: 19px;
+}
+.form91{
+    position: absolute;
+    left: 90px;
+    top: 900px;
+}
+
+.formNumber{
+    position: absolute;
+    left: 130px;
+    top: 899.5px;
+    
+}
+.bgcolorgrey{
+    background-color: #C4C4C4;
+    border: 1px solid blue;
+}
+.btnnext{
+    width: 140px;
+    background-color: #FAFF0D;
+    color: black;
+    padding-left: 20px;
+    padding-right: 40px;
+    position: absolute;
+    top: 960px;
+    left: 140px;
+}
+.btnnext2{
+    width: 200px;
+    background-color: #FAFF0D;
+    color: black;
+    font-size: 16px;
+    
+    position: absolute;
+    top: 1090px;
+    left: 110px;
+}
+.btnnext3{
+    width: 200px;
+    
+    color: black;
+    font-size: 16px;
+    
+    position: absolute;
+    top: 1040px;
+    left: 200px;
+}
+.login{
+    position: absolute;
+    top: 755px;
+    left: 165px;
+}
+.OTPcont{
+    width: 420px;
+    height: 400px;
+    margin :40px;
+    float: right;
+    
+    background-color: white;
+}
+.txtOTP{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.textholder{
+    position: absolute;
+    top: 840;
+    left: 1048;
+}
+.EDit{
+    color: #FF9D1A;
+}
+.borderbot{
+    border-bottom: 2px solid black;
+    color: white;
+    
+}
+.OTPHolder{
+    position: absolute;
+    top: 1000px;
+    left: 1048;
+}
+.resOTP{
+    position: absolute;
+    top: 1050px;
+    left: 1134;
+    color: #FF9D1A;
+}
+.Verify{
+    width: 300px;
+    height: auto;
+    background-color:#FFD80B ;
+    padding: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+    position: absolute;
+    top: 1100px;
+    left: 1045;
+
+
 }
